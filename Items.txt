@@ -7,4 +7,3 @@
 3,screen,200.0,2
 3,iphone,15000.0,2
 3,headphone,500.0,3
-3,charger,200.0,3-11-2022}

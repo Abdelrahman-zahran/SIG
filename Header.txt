@@ -1,10 +1,3 @@
-1,laptop,5000.0,2
-1,mobile,3000.0,1
-1,ipad,30000.0,2
-2,cover,75.0,5
-2,charger,200.0,4
-2,headphone,1000.0,3
-3,screen,200.0,2
-3,iphone,15000.0,2
-3,headphone,500.0,3
-3,charger,200.0,3-11-2022}
+1,01-09-2022,Ali
+2,01-10-2022,osman
+3,01-11-2022,ibrahim
